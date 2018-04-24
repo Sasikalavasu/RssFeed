@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="image">image</string>
+    <string name="base_url">http://52.202.211.6</string>
+</resources>
